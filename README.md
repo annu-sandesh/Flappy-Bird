@@ -8,5 +8,5 @@ This is simple flappy bird game.
 ### Steps to play the game
 
                1. Clone this repository in your device
-               2. Open dist folder
-               3. Double click main.exe
+               2. Double click main.exe
+               
